@@ -1,3 +1,5 @@
+![___img src=x onerror=alert(document.cookie);](javascript:alert(document.domain))
+
 # Flow-to-TypeScript [![Build Status][build]](https://circleci.com/gh/bcherny/flow-to-typescript) [![npm]](https://www.npmjs.com/package/flow-to-typescript) [![mit]](https://opensource.org/licenses/MIT)
 
 [build]: https://img.shields.io/circleci/project/bcherny/flow-to-typescript.svg?branch=master&style=flat-square
